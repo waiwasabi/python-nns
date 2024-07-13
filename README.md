@@ -1,3 +1,3 @@
 # Neural-Networks
 
-neural network algorithms done from scratch
+Python implementations of standard machine learning algorithms for pedagogical purposes. 
